@@ -1,5 +1,6 @@
 # Sinyalizasyonlar
 Defans oyununda aşağıdaki sinyalleşmeler kullanılır. 
+Bir löve kaybına sebep olacaksa o sinnyalizasyon kullanılmaz.
 
 Not: (⭐) birden fazla seçenek açıklanmışsa şu an için kullanılanı gösterir.
 
