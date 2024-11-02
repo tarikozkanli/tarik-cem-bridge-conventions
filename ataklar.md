@@ -9,12 +9,12 @@ Ataklar koz ve sanzatu oyunlarında aşağıdaki öncelik sırasıyla tercih edi
 3. (⭐K) Q 10, (⭐Q) J 9, (⭐J) 10 8
 4. K (⭐J) 10, K (⭐10) 9, Q (⭐10) 9
 5. A (⭐J) 10 x x, A (⭐10) 9 x x
-6. Tekli (Duruma göre 2. olarak ta tercih edilebilir.)
+6. Tekli (Duruma göre 2. tercih te olabilir.)
 7. Ortağın rengi varsa 3. veya 5. büyük çıkılır.
 8. Konuşulmamış renklerden 3. veya 5. büyük çıkılır.
 
 
-## NT Oyunu
+## Sanzatu Oyunu
 1. Prensip olarak uzun rengimizin 2. veya 4. büyüğü çıkılır.
 2. Ortağın rengi varsa 3. veya 5. büyük çıkılır.
 3. 2 tane 4'lü renk varsa küçük onörlü olan çıkılır.
