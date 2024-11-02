@@ -14,8 +14,8 @@ Not: Renge uymazken kullanılan konvensiyona bağlı olarak tersi de kullanılab
 2. Önce küçük sonra büyük tek sayıda kart olduğunu gösterir.
 
 ## Preferans
-1. Kalan rengin büyüğünü oynamak büyük rengi ister.
-2. Kalan rengin küçüğünü oynamak küçük rengi ister.
+1. Büyük oynamak kalan rengin büyüğünü ister.
+2. Küçük oynamak kalan rengin küçüğünü ister.
 3. Orta kartlar bir şey istemez.
 
 Not: Kalan renk oynanan rengin ve kozlu oyunlarda kozun dışındaki renkleri ifade eder.
