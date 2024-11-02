@@ -1,5 +1,7 @@
 # Sinyalizasyonlar
-Defans oyununda aşağıdaki sinyalleşmeler kullanılır.
+Defans oyununda aşağıdaki sinyalleşmeler kullanılır. 
+
+Not: (⭐) birden fazla seçenek açıklanmışsa şu an için kullanılanı gösterir.
 
 ## Renge Uyarken
 
