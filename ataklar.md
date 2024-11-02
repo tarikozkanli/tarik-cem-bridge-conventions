@@ -1,5 +1,8 @@
 # Koz Oyunu
-1. <mark>A</mark>K
-2. <mark>K</mark>QJ, <mark>Q</mark>J10, <mark>J</mark>109
+1. (⭐A) K
+2. (⭐K) Q J, (⭐Q) J 10, (⭐J) 10 9
  
 # NT Oyunu
+
+
+
